@@ -51,3 +51,23 @@ The analysis covers 1,470 employee records and focuses on factors such as depart
 
 ## Dataset 
 
+https://github.com/adityahirave09/HR-Attrition-Analysis-Power_BI/blob/main/Hr%20Emp%20Attrition%20data.csv
+- Source - WWW.KAGGLE.COM
+
+## Power BI Dashboard
+
+- The dashboard provides an interactive one-page view of:
+
+1. Department-wise attrition
+2. Job role-wise attrition
+3. Overtime distribution
+4. Salary-band attrition
+5. Age-group attrition
+6. Work-life balance vs attrition
+7. Key HR KPIs
+8. Interactive slicers for deeper analysis
+
+## Project File 
+
+https://github.com/adityahirave09/HR-Attrition-Analysis-Power_BI/blob/main/IBM%20ATTRITION%20RATE%20.png
+
