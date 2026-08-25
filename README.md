@@ -71,3 +71,10 @@ https://github.com/adityahirave09/HR-Attrition-Analysis-Power_BI/blob/main/Hr%20
 
 https://github.com/adityahirave09/HR-Attrition-Analysis-Power_BI/blob/main/IBM%20ATTRITION%20RATE%20.png
 
+## Conclusion
+
+The project demonstrates how SQL, DAX and Power BI can be combined to analyse HR data, identify important attrition patterns, and provide actionable insights for employee retention and workforce planning.
+
+### Author
+- Aditya Hirave
+- Aspiring Data Analyst | SQL | Power BI | Excel | Python
